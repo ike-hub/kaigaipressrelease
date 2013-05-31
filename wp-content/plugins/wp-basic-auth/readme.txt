@@ -5,7 +5,7 @@ Tags: BASIC Auth, Auth
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: 1.1.0
-
+  
 Enabling this plugin allows you to set up Basic authentication on your site using your WordPress's user name and password.
 
 == Description ==

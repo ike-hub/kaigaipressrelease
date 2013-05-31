@@ -87,3 +87,4 @@ RewriteRule ^(.*) - [E=HTTP_AUTHORIZATION:%1]
 	}
 }
 new wp_basic_auth();
+
